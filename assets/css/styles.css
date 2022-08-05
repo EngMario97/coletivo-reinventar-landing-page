@@ -9,7 +9,7 @@
   /*Purple 260 - Red 355 - Blue 224 - Pink 340*/
   /* HSL color mode */
   --hue-color: 224;
-  --first-color: #053FEC;
+  --first-color: #0046be;
   --second-color: hsl(var(--hue-color), 56%, 12%);
   /*===== Fuente y tipografia =====*/
   --body-font: 'Poppins', sans-serif;
@@ -171,7 +171,7 @@ img {
 }
 
 .nav__number{
-  color:red;
+  color:#d91f25;
 }
 
 .nav__toggle {
@@ -216,7 +216,7 @@ img {
 
 .home__number{
   font-size: 6rem;
-  color: red;
+  color: #d91f25;
 }
 
 .home__social {
@@ -237,18 +237,14 @@ img {
 }
 
 .home__img {
-  position: absolute;
+position: absolute;
   right: 0;
   bottom: 0;
-  width: 400px;
+  width: 280px;
 }
 
-.home__blob {
-  fill: var(--first-color);
-}
-
-.home__blob-img {
-  width: 320px;
+.home__img-img {
+  width: 500px;
 }
 
 /*BUTTONS*/
