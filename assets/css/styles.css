@@ -199,8 +199,6 @@ img {
 /*===== HOME =====*/
 .home {
   position: relative;
-  row-gap: 5rem;
-  padding: 4rem 0 3rem;
 }
 
 .home__data {
@@ -209,7 +207,7 @@ img {
 
 .home__title {
   font-size: var(--big-font-size);
-  margin-bottom: var(--mb-5);
+  margin-bottom:0;
 }
 
 .home__title-color {
@@ -224,12 +222,13 @@ img {
 .home__social {
   display: flex;
   flex-direction: column;
+
 }
 
 .home__social-icon {
   width: max-content;
-  margin-bottom: var(--mb-2);
-  font-size: 2rem;
+  margin-bottom: 0;
+  font-size: 3rem;
   color: var(--second-color);
 }
 
