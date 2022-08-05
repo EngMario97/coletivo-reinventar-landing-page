@@ -171,7 +171,7 @@ img {
 }
 
 .nav__number{
-  color:#d91f25;
+  color:#229a0e;
 }
 
 .nav__toggle {
@@ -203,6 +203,7 @@ img {
 
 .home__data {
   align-self: center;
+  margin-top: 2rem;
 }
 
 .home__title {
@@ -216,7 +217,7 @@ img {
 
 .home__number{
   font-size: 6rem;
-  color: #d91f25;
+  color: #229a0e;
 }
 
 .home__social {
@@ -313,7 +314,7 @@ position: absolute;
 
 .members__social-icon {
   width: max-content;
-  font-size: 4rem;
+  font-size: 5rem;
   color: var(--second-color);
 }
 
