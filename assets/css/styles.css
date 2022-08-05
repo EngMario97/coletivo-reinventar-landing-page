@@ -200,7 +200,7 @@ img {
 .home {
   position: relative;
   row-gap: 5rem;
-  padding: 4rem 0 5rem;
+  padding: 4rem 0 3rem;
 }
 
 .home__data {
