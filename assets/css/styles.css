@@ -286,6 +286,19 @@ img {
   fill: var(--first-color);
 }
 
+.members__blob-daniel{
+  fill: #229a0e;
+}
+.members__blob-jonas{
+  fill: #ecc705;
+}
+.members__blob-mateus{
+  fill: #053fec;
+}
+.members__blob-victor{
+  fill: #8d06cd;
+}
+
 .members__blob-img {
   width: 360px;
 }
