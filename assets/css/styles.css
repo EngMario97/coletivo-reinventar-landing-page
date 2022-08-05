@@ -170,6 +170,10 @@ img {
   color: var(--second-color);
 }
 
+.nav__number{
+  color:red;
+}
+
 .nav__toggle {
   color: var(--second-color);
   font-size: 1.5rem;
@@ -212,6 +216,11 @@ img {
   color: var(--first-color);
 }
 
+.home__number{
+  font-size: 10rem;
+  color: red;
+}
+
 .home__social {
   display: flex;
   flex-direction: column;
@@ -232,7 +241,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 260px;
+  width: 400px;
 }
 
 .home__blob {
