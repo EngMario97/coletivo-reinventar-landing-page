@@ -313,7 +313,7 @@ position: absolute;
 
 .members__social-icon {
   width: max-content;
-  font-size: 2rem;
+  font-size: 4rem;
   color: var(--second-color);
 }
 
