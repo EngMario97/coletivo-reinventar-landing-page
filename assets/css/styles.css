@@ -60,6 +60,10 @@ p {
   margin: 0;
 }
 
+p+p {
+  text-indent: 1.5em;
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -271,6 +275,10 @@ position: absolute;
 
 .about__subtitle {
   margin-bottom: var(--mb-2);
+}
+
+.about__text {
+  text-align: justify;
 }
 
 .about__img {
