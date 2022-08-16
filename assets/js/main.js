@@ -50,7 +50,7 @@ const sr = ScrollReveal({
     //     reset: true
 });
 
-sr.reveal('.home__data, .about__img', {});
-sr.reveal('.home__img, .about__subtitle, .about__text', { delay: 400 });
+sr.reveal('.home__data, .about__img, .instagram-media, .proposal__title', {});
+sr.reveal('.home__img, .about__subtitle, .about__text, .instagram-media', { delay: 400 });
 sr.reveal('.home__social-icon, members__social-icon', { interval: 200 });
-sr.reveal('.proposals__img, .members__box, .contact__input', { interval: 200 });
+sr.reveal('.proposals__img, .members__box, .contact__input,', { interval: 200 });
