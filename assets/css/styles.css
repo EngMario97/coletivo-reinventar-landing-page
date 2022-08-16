@@ -224,6 +224,26 @@ img {
   color: #229a0e;
 }
 
+.proposal__title{
+  font-size: var(--big-font-size);
+  text-align: center;
+}
+
+.proposal__title-yellow{
+  color: #ecc705;
+}
+
+.proposal__title-blue{
+  color: #053fec;
+}
+
+.proposal__title-green{
+  color: #229a0e;
+}
+.proposal__title-purple{
+  color: #8d06cd;
+}
+
 .home__social {
   display: flex;
   flex-direction: column;
@@ -536,7 +556,7 @@ position: absolute;
   }
 
   .home {
-    padding: 10rem 0 2rem;
+    padding: 5rem 0 2rem;
   }
 
   .home__img {
