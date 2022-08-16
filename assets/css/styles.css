@@ -518,11 +518,9 @@ position: absolute;
     width: 300px;
   }
 
-  .skills__container {
+  .proposal__container {
     grid-template-columns: repeat(2, 1fr);
-    column-gap: 2rem;
-    align-items: center;
-    text-align: initial;
+    
   }
 
   .members__container {
