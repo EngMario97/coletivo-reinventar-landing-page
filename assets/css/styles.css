@@ -469,6 +469,11 @@ position: absolute;
     column-gap: 2rem;
     padding-top: 2rem;
   }
+  .proposals__container {
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 2rem;
+    padding-top: 2rem;
+  }
 
   .contact__form {
     width: 360px;
@@ -544,7 +549,7 @@ position: absolute;
   }
 
   .members__container {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     column-gap: 2rem;
   }
 }
